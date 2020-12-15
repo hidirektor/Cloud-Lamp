@@ -17,3 +17,10 @@ Cloud Lamp parts:
 <p align="center">
   <img src="img/diagram.png" width="350" title="Wire Diagram / Bağlantı Şeması">
 </p>
+<br><br>Result:
+<br>• Result:
+<p align="center">
+  <br><img src="img/result1.png" width="350" title="Result / Sonuç">
+  <br><img src="img/result2.png" width="350" title="Result / Sonuç">
+  <br><img src="img/result3.png" width="350" title="Result / Sonuç">
+</p>
