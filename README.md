@@ -10,12 +10,10 @@ Cloud Lamp parts:
 <br><br>FastLED Hue Chart:
 <br>• Hue Chart
 <p align="center">
-  <img src="img/hue_chart.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="img/hue_chart.png" width="350" title="Hue Chart / Renk Tablosu">
 </p>
 <br><br>Cloud Lamp Wire Diagram:
 <br>• Diagram:
 <p align="center">
-  <img src="img/diagram.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="img/diagram.png" width="350" title="Wire Diagram / Bağlantı Şeması">
 </p>
