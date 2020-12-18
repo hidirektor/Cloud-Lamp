@@ -10,17 +10,17 @@ Cloud Lamp parts:
 <br><br>FastLED Hue Chart:
 <br>• Hue Chart
 <p align="center">
-  <img src="img/hue_chart.png" width="350" title="Hue Chart / Renk Tablosu" width="380" height="1077">
+  <img src="img/hue_chart.png" width="350" title="Hue Chart / Renk Tablosu" max-width: 100%; max-height: 100%;>
 </p>
 <br><br>Cloud Lamp Wire Diagram:
 <br>• Diagram:
 <p align="center">
-  <img src="img/diagram.png" width="350" title="Wire Diagram / Bağlantı Şeması" width="706" height="792">
+  <img src="img/diagram.png" width="350" title="Wire Diagram / Bağlantı Şeması" max-width: 100%; max-height: 100%;>
 </p>
 <br><br>Result:
 <br>• Result:
 <p align="center">
-  <br><img src="img/result1.png" width="350" title="Result / Sonuç">
-  <br><img src="img/result2.png" width="350" title="Result / Sonuç">
-  <br><img src="img/result3.png" width="350" title="Result / Sonuç">
+  <br><img src="img/result1.png" width="350" title="Result / Sonuç" max-width: 100%; max-height: 100%;>
+  <br><img src="img/result2.png" width="350" title="Result / Sonuç" max-width: 100%; max-height: 100%;>
+  <br><img src="img/result3.png" width="350" title="Result / Sonuç" max-width: 100%; max-height: 100%;>
 </p>
