@@ -20,7 +20,7 @@ Cloud Lamp parts:
 <br><br>Result:
 <br>• Result:
 <p align="center">
-  <br><img src="img/result1.png" width="350" title="Result / Sonuç" max-width: 150%; max-height: 150%;>
+  <br><img src="img/result1.jpeg" width="350" title="Result / Sonuç" max-width: 150%; max-height: 150%;>
   <br><img src="img/result2.png" width="350" title="Result / Sonuç" max-width: 150%; max-height: 150%;>
   <br><img src="img/result3.png" width="350" title="Result / Sonuç" max-width: 150%; max-height: 150%;>
 </p>
